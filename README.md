@@ -24,8 +24,10 @@ We compiled and reorganized this data in Excel for analysis, focusing on key bia
 ## Discussion
 **1. Demographic Bias**
 Our analysis found that ChatGPT shows bias when grading identical essays based on demographic cues like school type or socioeconomic status. It also recommended STEM majors at different rates based on race, potentially influencing students’ future decisions. Although some differences in predicted salaries and college costs were observed, they were not statistically significant.
+
 **2. Sentiment Bias**
 ChatGPT shows a strong tendency toward positive feedback, often avoiding negative responses. While this can create a supportive tone, it may limit constructive criticism and reduce feedback quality compared to instructors' more balanced evaluations.
+
 **3. Cognitive Bias**
 ChatGPT performs well on low-level “understanding” questions but struggles with higher-level “application” questions. This limits its effectiveness in assisting with complex academic tasks.
 ## Conclusion and Future Work
